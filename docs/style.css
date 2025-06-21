@@ -555,50 +555,28 @@
             }
         }
 
-/* Additional styles for better readability */
-body {
-  line-height: 1.8;
-  font-size: 16px;
-  padding-bottom: 80px;
+/* Enhancing table visibility with borders */
+.data-table, .content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  font-size: 15px;
+  border: 1px solid #cbd5e0;
 }
 
-.content p {
-  margin-bottom: 1.2em;
-  font-size: 16px;
+.content th, .content td {
+  border: 1px solid #cbd5e0;
+  padding: 12px 16px;
+  text-align: left;
 }
 
-.content h2, .content h3 {
-  margin-top: 2.2em;
-  margin-bottom: 1.0em;
+.content th {
+  background-color: #edf2f7;
   color: #2d3748;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 
-.content blockquote {
-  border-left: 4px solid #4299e1;
-  background: #f0f8ff;
-  padding: 12px 20px;
-  margin: 1.5em 0;
-  color: #2a4365;
-  font-style: italic;
-  position: relative;
-}
-
-.content blockquote::before {
-  content: "💬";
-  position: absolute;
-  left: -30px;
-  top: 4px;
-  font-size: 20px;
-}
-
-.section-title::before {
-  content: "📘 ";
-}
-
-.section-subtitle::before {
-  content: "🔹 ";
-}
-
-.footer strong::before {
-  content: "🌀 ";
+.content tr:nth-child(even) td {
+  background: #f7fafc;
 }
