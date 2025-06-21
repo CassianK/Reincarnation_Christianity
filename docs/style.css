@@ -554,3 +554,51 @@
                 border: 2px solid #000000;
             }
         }
+
+/* Additional styles for better readability */
+body {
+  line-height: 1.8;
+  font-size: 16px;
+  padding-bottom: 80px;
+}
+
+.content p {
+  margin-bottom: 1.2em;
+  font-size: 16px;
+}
+
+.content h2, .content h3 {
+  margin-top: 2.2em;
+  margin-bottom: 1.0em;
+  color: #2d3748;
+}
+
+.content blockquote {
+  border-left: 4px solid #4299e1;
+  background: #f0f8ff;
+  padding: 12px 20px;
+  margin: 1.5em 0;
+  color: #2a4365;
+  font-style: italic;
+  position: relative;
+}
+
+.content blockquote::before {
+  content: "💬";
+  position: absolute;
+  left: -30px;
+  top: 4px;
+  font-size: 20px;
+}
+
+.section-title::before {
+  content: "📘 ";
+}
+
+.section-subtitle::before {
+  content: "🔹 ";
+}
+
+.footer strong::before {
+  content: "🌀 ";
+}
