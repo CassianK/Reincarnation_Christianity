@@ -375,7 +375,7 @@
 
 **통계가 말하는 진실:**
 
-[퓨 리서치 센터 조사 (2009)](https://www.pewresearch.org/)에 따르면:
+[퓨 리서치 센터 조사 (2009)](https://www.pewresearch.org/religion/2025/05/06/believing-in-spirits-and-life-after-death-is-common-around-the-world/)에 따르면:
 - 미국 기독교도의 22%가 환생을 믿는다
 - 흑인 개신교도: 29%
 - 가톨릭: 25%  
