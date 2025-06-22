@@ -375,7 +375,7 @@ German mystical philosopher. In *Aurora*, he detailed the soul's regeneration an
 
 **What Statistics Reveal:**
 
-According to [Pew Research Center surveys (2009)](https://www.pewresearch.org/):
+According to [Pew Research Center surveys (2009)](https://www.pewresearch.org/religion/2025/05/06/believing-in-spirits-and-life-after-death-is-common-around-the-world/):
 - 22% of American Christians believe in reincarnation
 - Black Protestants: 29%
 - Catholics: 25%
